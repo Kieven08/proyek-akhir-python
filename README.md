@@ -1,1 +1,1 @@
-# proyek-akhir-python
+# proyek-akhir-Membuat bot discord untuk membantu mencegah dan mengedukasi apa itu perubahan iklim dan dampak-dampaknya, contoh: dampak perubahan iklim seperti bencana alam disertai sumber seperti BMKG
